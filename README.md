@@ -66,7 +66,3 @@ Drag and Drop
 Ammo stacking via drag  
 Item swapping  
 Item info popup
-
-## Time Spent
-
-(Write your time here)
