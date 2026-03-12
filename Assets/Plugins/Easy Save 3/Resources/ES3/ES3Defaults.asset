@@ -35,60 +35,11 @@ MonoBehaviour:
     referenceMode: 2
     serializationDepthLimit: 64
     assemblyNames:
-    - AdvancedCullingSystem.Runtime
-    - AllIn1SpriteShaderAssembly
     - Assembly-CSharp
     - Assembly-CSharp-firstpass
-    - Autodesk.Fbx
-    - Autodesk.Fbx.BuildTestAssets
-    - Cinemachine
-    - CW.Common
-    - DamageNumbersPro
-    - Domain_Reload
-    - Flexalon
-    - Flexalon.Samples
-    - Google.Play.Common
-    - Google.Play.Core
-    - Google.Play.Review
-    - KinoBloom.Runtime
-    - LeanCommon
-    - LeanCommonPlus
-    - LeanGUI
-    - LeanPool
-    - LeanTouch
-    - LeanTouchPlus
-    - LeanTransition
-    - LeTai.TrueShadow
-    - LeTai.TrueShadow.Demo
-    - Lofelt.NiceVibrations
-    - Lofelt.NiceVibrations.Demo
-    - MalbersAnimations
-    - MalbersAnimations.Cinemachine
-    - MalbersAnimations.Editor
-    - MalbersAnimations.InputSystem
-    - MeshFusionPro.Example
-    - MeshFusionPro.Runtime
-    - MoreMountains.Tools
-    - Obious.Soap.Example
-    - Obvious.Soap
     - OSA.Core
     - OSA.Demos
     - OSA.Utilities
-    - PrimeTween.Runtime
-    - Purchasing.Common
-    - SimpleInput.Runtime
-    - Sirenix.OdinInspector.Modules.Unity.Addressables
-    - Sirenix.OdinInspector.Modules.UnityLocalization
-    - Tayx.Graphy
-    - TechniePhysicsCreator
-    - ToonyColorsPro.Runtime
-    - ToonyColorsPro2.Demo
-    - UniTask
-    - UniTask.Addressables
-    - UniTask.DOTween
-    - UniTask.Linq
-    - UniTask.TextMeshPro
-    - Whinarn.UnityMeshSimplifier.Runtime
     showAdvancedSettings: 1
   addMgrToSceneAutomatically: 0
   autoUpdateReferences: 1
